@@ -1,3 +1,6 @@
+# caffeine-runner
+JavaScript App designed to track office coffee orders between teams.
+
 # WatchList
 Webapp for listing and tracking movies and TV shows to watch in future (but mainly for trying out Angular 2)
 Built on structure provided by [Angular 2 Starter](https://github.com/antonybudianto/angular2-starter) by Antony Budianto.

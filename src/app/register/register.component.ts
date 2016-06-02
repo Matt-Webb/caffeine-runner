@@ -26,7 +26,7 @@ import {Component} from '@angular/core';
 })
 
 
-//ToDo: Integrate Firebase!
+// ToDo: Integrate Firebase!
 export class RegisterComponent {
 
 }

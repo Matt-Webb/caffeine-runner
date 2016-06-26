@@ -1,12 +1,12 @@
 {
-  "name": "WatchList",
+  "name": "Caffeine-Runner",
   "version": "1.0.0",
-  "author": "David Coe",
-  "description": "App for listing and tracking movies and tv shows",
+  "author": "David Coe, Matt Webb",
+  "description": "App for organising and tracking coffee runs",
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DaveCoeDev/watchlist.git"
+    "url": "https://github.com/Matt-Webb/caffeine-runner"
   },
   "scripts": {
     "postinstall": "typings install",
@@ -34,7 +34,8 @@
     "@angular/platform-browser": "2.0.0-rc.1",
     "@angular/platform-browser-dynamic": "2.0.0-rc.1",
     "@angular/router": "2.0.0-rc.1",
-    "bootstrap-sass": "^3.3.6",
+    "@angular2-material/core": "v2.0.0-alpha.5-2",
+    "ng2-material": "0.5.0",
     "es6-shim": "^0.35.0",
     "font-awesome": "^4.6.1",
     "jquery": "^2.2.3",
